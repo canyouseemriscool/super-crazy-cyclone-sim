@@ -425,7 +425,7 @@ UI.init = function(){
         textSize(36);
         text(TITLE,0,0);
         textSize(18);
-        textStyle(ITALIC);
+        textStyle(VERDANA);
         text("Simulate your own monster storms!",0,40);
     });
 
